@@ -1,0 +1,72 @@
+[
+{
+  "id": 1,
+  "position": "Web developer",
+  "company": "Foto-grafica Web",
+  "from": "Feb. 2010",
+  "to": "Nov. 2017",
+  "image": "/fotografica.png",
+  "skills": ["jquery", "CSS3", "HTML", "PHP 5", "FTP"],
+  "type": "job"
+},
+{
+  "id": 2,
+  "position": "QA",
+  "company": "Ministry of economy",
+  "from": "Nov. 2012",
+  "to": "Jan. 2014",
+  "image": "/ministry_of_economy.png",
+  "skills": ["Test Cases perform", "Oracle PLSQL"],
+  "type": "job"
+},
+{
+  "id": 3,
+  "position": "QA automation developer",
+  "company": "Ministry of economy",
+  "from": "Jan. 2014",
+  "to": "Feb. 2017",
+  "image": "/ministry_of_economy.png",
+  "skills": ["Selenium Webdriver", "JUnit", "Window Tester", "Java 7", "TDD", "Oracle SQL"],
+  "type": "job"
+},
+{
+  "id": 4,
+  "position": "Full-stack developer",
+  "company": "Ministry of economy",
+  "from": "Jan. 2014",
+  "to": "Feb. 2017",
+  "image": "/ministry_of_economy.png",
+  "skills": ["ReactJS", "Redux", "TDD", "MongoDB", "NodeJS", "REST", "SOAP"],
+  "type": "job"
+},
+{
+  "id": 5,
+  "position": "Full-stack developer",
+  "company": "Turismocity",
+  "from": "Feb. 2017",
+  "to": "Actual",
+  "image": "/turismocity.png",
+  "skills": ["NodeJS", "GraphQL", "Apollo Client", "MongoDB", "REST", "AWS SDK", "Vue.js", "Vuex", "Nuxt", "Linux"],
+  "type": "job"
+},
+{
+  "id": 6,
+  "position": "Full-stack developer",
+  "company": "TripLoko",
+  "from": "Jun. 2018",
+  "to": "Actual",
+  "image": "/triploko.png",
+  "skills": ["NodeJS", "GraphQL", "Apollo Client", "MongoDB", "REST", "AWS SDK", "Vue.js", "Vuex", "Nuxt", "Linux"],
+  "type": "job"
+},
+{
+  "id": 1,
+  "position": "Some Project",
+  "company": "Ski Nórdico Bariloche",
+  "from": "Feb. 2010",
+  "to": "Nov. 2017",
+  "image": "/fotografica.png",
+  "skills": ["jquery", "CSS3", "HTML", "PHP 5", "FTP"],
+  "type": "project"
+}
+]
