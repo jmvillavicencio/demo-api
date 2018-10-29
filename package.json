@@ -8,5 +8,23 @@
     "dev": "DEVELOPMENT=1 nodemon --exec npx babel-node -- ./server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "compression": "^1.7.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.1.0",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.4",
+    "express-status-monitor": "^1.2.3",
+    "express-validator": "^5.3.0",
+    "lusca": "^1.6.1",
+    "mongoose": "^5.3.7",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.5",
+    "request": "^2.88.0"
+  }
 }
